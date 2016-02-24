@@ -24,7 +24,7 @@ The website is build with [Jekyll](https://jekyllrb.com/). In order to see the p
 ```
 gem install bundler
 bundle
-jekyll serve
+bundle exec jekyll serve --watch
 ```
 
 then you type:  ```localhost:4000``` in your browser and :tada:
